@@ -1,0 +1,22 @@
+{
+  "name": "oracle",
+  "version": "1.0.0",
+  "description": "a dota2 tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeorgeIpsum/Oracle.git"
+  },
+  "keywords": [
+    "dota2"
+  ],
+  "author": "g1n",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/GeorgeIpsum/Oracle/issues"
+  },
+  "homepage": "https://github.com/GeorgeIpsum/Oracle#readme"
+}
