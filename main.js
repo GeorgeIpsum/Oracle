@@ -1,6 +1,15 @@
 const {app, BrowserWindow} = require('electron')
 const path = require('path')
 const url = require('url')
+const mysql = require('mysql')
+const connection = mysql.createConnection({
+    host: 'localhost',
+    user: '',
+    password: '',
+    database: ''
+})
+
+connection.connect()
 
 let win
 
